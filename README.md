@@ -1,4 +1,4 @@
-# -kodluyoruzilkrepo-
+# kodluyoruzilkrepo
 Bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ##Installation
 Öncelikle projeyi clonelayın.(https://github.com/mervezgin/-kodluyoruzilkrepo-.git)
@@ -8,6 +8,6 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 #Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinii tartışmak için bir konu açınız. 
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğini tartışmak için bir konu açınız. 
 ##License
 MIT
